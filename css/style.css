@@ -575,7 +575,7 @@ a{
 /*Cragslist*/
 .cragwireframes {
   display: grid;
-  grid-template-columns: 2fr 1fr;
+  grid-template-columns: 1fr 1fr;
   justify-content:space-around;
   margin:auto;
   text-align: center;
@@ -583,7 +583,7 @@ a{
 
  .cragmockups {
   display: grid;
-  grid-template-columns: 2fr 1fr;
+  grid-template-columns: 1fr 1fr;
   justify-content:space-around;
   margin:auto;
   text-align: center;
