@@ -986,7 +986,7 @@ a{
 /*Amazon*/
 .amamockups {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 2fr 1fr;
   justify-content:space-around;
   padding:10px;
   text-align: center;
