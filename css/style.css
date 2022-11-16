@@ -9,6 +9,12 @@
     text-align: justify;
   }
 
+.logo1, .logo2{
+    width:100px;
+    height:90px;
+   margin:20px;
+  }
+
   .header,.footer1, .footer2{
     background-color: #326872;
   }
