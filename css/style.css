@@ -9,6 +9,15 @@
     text-align: justify;
   }
 
+.show{
+    height:200px;
+    width:300px;
+  }
+
+  .div2{
+    text-align: center;
+  }
+
 .logo1, .logo2{
     width:100px;
     height:90px;
@@ -1119,5 +1128,9 @@ a{
     margin-top:20px;
     margin-left:25px;
     font-size: 16px;
+  }
+      .show{
+    height:250px;
+    width:450px;
   }
 }
