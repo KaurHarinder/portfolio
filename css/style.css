@@ -195,6 +195,12 @@
 
 .navLink1{
   margin-top:30px;
+  margin-bottom: 30px;
+  transition: transform .1s ease;
+}
+  .navLink1:hover{
+    transform: scale(1.2); 
+
 }
 
 .navLink7{
