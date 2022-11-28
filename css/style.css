@@ -203,6 +203,16 @@
 
 }
 
+.nav1{
+ 
+  transition: transform .1s ease;
+}
+
+.nav1:hover{
+  transform: scale(1.2); 
+
+}
+
 .navLink7{
   border: solid black 2px;
   padding:10px;
@@ -787,6 +797,7 @@ a{
 
      .nav1{
       text-align: center;
+         margin-bottom: 30px;
      }
 
 
