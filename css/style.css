@@ -698,7 +698,12 @@ a{
 
     .navLink{
       display: block;
+        transition: transform .1s ease;
     }
+      
+      .navLink:hover{
+      transform: scale(1.2); 
+  }
     
     img{
       height: 125px;
