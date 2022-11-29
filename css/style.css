@@ -1155,4 +1155,8 @@ a{
     height:250px;
     width:450px;
   }
+      
+      .cont, .about{
+      margin-bottom: 200px;
+    }
 }
